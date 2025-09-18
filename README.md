@@ -1,0 +1,1 @@
+Welcome to my portfolio—a showcase of my multidisciplinary engineering projects. Here you'll find projects that span analog/digital electronics, embedded systems, IoT and mechanical design. Each project displays my hands-on experience with circuit construction, system interfacing, CAD modeling, and programming in Assembly, C, C++, and Python.
